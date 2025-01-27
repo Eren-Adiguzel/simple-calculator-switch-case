@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\adigu\\Desktop\\Calculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61EDE0AD-DC95-450A-B64C-485D8CDB0174}|Calculator\\Calculator.vcxproj|C:\\Users\\adigu\\Desktop\\Calculator\\Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61EDE0AD-DC95-450A-B64C-485D8CDB0174}|Calculator\\Calculator.vcxproj|solutionrelative:Calculator\\Calculator.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cpp",
+              "DocumentMoniker": "C:\\Users\\adigu\\Desktop\\Calculator\\Calculator\\Calculator.cpp",
+              "RelativeDocumentMoniker": "Calculator\\Calculator.cpp",
+              "ToolTip": "C:\\Users\\adigu\\Desktop\\Calculator\\Calculator\\Calculator.cpp*",
+              "RelativeToolTip": "Calculator\\Calculator.cpp*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwE4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T16:38:55.73Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

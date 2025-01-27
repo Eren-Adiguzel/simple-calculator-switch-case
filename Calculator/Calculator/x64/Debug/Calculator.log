@@ -1,0 +1,10 @@
+﻿  Calculator.cpp
+C:\Users\adigu\Desktop\Calculator\Calculator\Calculator.cpp(36,48): warning C4477: 'scanf_s' : '%f' biçim dizesi 'float *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double *'
+      C:\Users\adigu\Desktop\Calculator\Calculator\Calculator.cpp(36,48):
+      biçim dizesinde '%lf' kullanmayı düşünün
+  
+C:\Users\adigu\Desktop\Calculator\Calculator\Calculator.cpp(37,48): warning C4477: 'scanf_s' : '%f' biçim dizesi 'float *' türü bir bağımsız değişken gerektirir, ancak 1 değişen sayıda bağımsız değişkenin türü 'double *'
+      C:\Users\adigu\Desktop\Calculator\Calculator\Calculator.cpp(37,48):
+      biçim dizesinde '%lf' kullanmayı düşünün
+  
+  Calculator.vcxproj -> C:\Users\adigu\Desktop\Calculator\x64\Debug\Calculator.exe
